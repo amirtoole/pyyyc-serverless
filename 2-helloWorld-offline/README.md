@@ -1,5 +1,8 @@
-# Hello World
-### How it was created
-`sls create --template aws-python3 --path 1-helloWorld`
-### How to run
-`sls invoke local -f hello`
+# Hello World (offline)
+### Setup
+`npm i`
+
+### Run
+`npm run offline`
+
+Visit http://localhost:3000/hello
