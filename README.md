@@ -10,8 +10,8 @@
 - `npm i -g` globally installs a dependency (usually reserved for dependencies that are needed to create a project)
 
 # Topics
-1. [hello world](1-helloWorld/README.md)
-2. [hello world with offline support](2-helloWorld-offline/README.md)
+1. [hello world](1-helloWorld/)
+2. [hello world with offline support](2-helloWorld-offline/)
 3. Up for vote:
 - dynamo (with offline support)
 - full stack app with s3/cloudfront (cdn)
