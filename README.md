@@ -9,8 +9,13 @@
 - `npm i` is shorthand for `npm install` (see `node_modules`)
 - `npm i -g` globally installs a dependency (usually reserved for dependencies that are needed to create a project)
 
+# Topics
+1. [hello world](1-helloWorld/README.md)
+2. [hello world with offline support](2-helloWorld-offline/README.md)
+3. Up for vote:
+- dynamo (with offline support)
+- full stack app with s3/cloudfront (cdn)
+- lambda layers
 
-# (potential) Future talks
-## Layers
-- https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html
-- https://serverless.com/framework/docs/providers/aws/guide/layers
+# References
+- https://github.com/serverless/examples
