@@ -1,0 +1,21 @@
+{
+  "name": "2-helloworld-offline",
+  "version": "1.0.0",
+  "description": "Extension of part 1 with offline support",
+  "scripts": {
+    "offline": "serverless offline start --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellofornow/pyyyc-serverless.git"
+  },
+  "author": "Amir Toole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hellofornow/pyyyc-serverless/issues"
+  },
+  "homepage": "https://github.com/hellofornow/pyyyc-serverless#readme",
+  "devDependencies": {
+    "serverless-offline": "^4.7.0"
+  }
+}
